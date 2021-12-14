@@ -49,16 +49,9 @@ Remember to keep it inside the bounds of the map.
 starting position (6,6), goal position (32,37) and map size 35x40 with 20% obstacles. 
 The simulation also generates a random map for each simulation. 
 
-### Files in this directory:
-The current files should exist in the directory:
-- assignment1.py
-- README.md
-- GradingSheet1.docx
-- Assingment1_report.pdf
-- output.pkl (only after 1 simulation has been run)
 
 ### Contact info:
 Author: Lars Engesæth
 
-email: lengesaeth3430@sdsu.edu / laen@nmbu.no
+email: laen@nmbu.no
 
